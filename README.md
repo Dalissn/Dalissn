@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Dalissn! 👋
 
-<!--
-**Dalissn/Dalissn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduate student learning **Data Science** with Python  
+Passionate about using data to improve healthcare, from reducing provider burnout to better patient outcomes
 
-Here are some ideas to get you started:
+## Interests
+Data science in healthcare  
+Woodworking 🪵  
+Gaming 🎮  
+Music 🎵  
+Plant care 🌱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Making data science a little more human
+
+📫 Reach me at: nilsond@bc.edu
