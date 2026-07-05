@@ -5,10 +5,6 @@ Passionate about using data to improve healthcare, from reducing provider burnou
 
 ## Interests
 Data science in healthcare  
-Woodworking 🪵  
-Gaming 🎮  
-Music 🎵  
-Plant care 🌱
 
 > Making data science a little more human
 
