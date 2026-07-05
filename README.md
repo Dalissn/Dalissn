@@ -1,4 +1,4 @@
-# Hi, I'm Dalissn! 👋
+# Hi, I'm Dalis! 👋
 
 Graduate student learning **Data Science** with Python  
 Passionate about using data to improve healthcare, from reducing provider burnout to better patient outcomes
